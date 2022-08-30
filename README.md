@@ -3,8 +3,9 @@
 
 아래의 이미지는 [user_information](./data/user_information.csv) 이라는 csv 파일을 익명화하기 전과 후를 나타냅니다.
 
-![anonymization](./images/anonymization.PNG)
-![unanonymization](./images/unanonymization.PNG)
+|unanonymization|anonymization|
+|---|---|
+|![unanonymization](./images/unanonymization.PNG)|![anonymization](./images/anonymization.PNG)|
 
 # Warning
 
